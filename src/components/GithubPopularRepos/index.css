@@ -1,0 +1,16 @@
+.main-bg-con {
+  text-align: center;
+  font-family: 'Bree serif';
+}
+.list-con {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.head {
+  font-family: 'lobster';
+}

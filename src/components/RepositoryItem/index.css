@@ -1,0 +1,27 @@
+.list-img {
+  height: 100px;
+  width: 80px;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.icon-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.repository-con {
+  background-color: #f8f8ff;
+  padding: 10px;
+  border-radius: 10px;
+  color: #000000;
+  width: 200px;
+  margin: 10px;
+}
+.name {
+  color: #e73959;
+  font-size: 20px;
+}
